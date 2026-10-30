@@ -1,0 +1,513 @@
+order_id,order_date,region,category,product,units,unit_price,discount,customer_age,payment_method
+1301,2026-07-05,East,Clothing,T-Shirt,5,599.51,0.15,21.0,Cash
+1232,2026-03-27,North,Electronics,Smartwatch,5,5756.57,0.1,44.0,Net Banking
+1051,2026-05-06,East,Clothing,T-Shirt,2,592.05,0.05,30.0,Card
+1305,2026-10-10,West,Electronics,Headphones,1,2531.66,0.0,30.0,Card
+1470,2026-07-14,South,Home,Bedsheet,2,1184.61,0.05,28.0,UPI
+1162,2026-08-11,South,Home,Bedsheet,3,1158.35,0.1,21.0,Net Banking
+1187,2026-08-07,North,Electronics,Speaker,5,3436.41,0.0,40.0,
+1414,2026-03-05,East,Clothing,Jeans,5,1799.75,0.0,28.0,UPI
+1458,2026-01-22,East,Clothing,T-Shirt,5,596.72,0.0,38.0,
+1155,2026-03-21,North,Electronics,Smartwatch,5,5807.7,0.05,40.0,Card
+1361,2026-10-18,North,Electronics,Speaker,4,3663.66,0.05,30.0,Net Banking
+1256,2026-03-23,South,Clothing,T-Shirt,1,596.33,0.1,18.0,Card
+1159,2026-10-13,North,Electronics,Headphones,3,2613.3,0.0,40.0,UPI
+1322,2026-10-05,South,Home,Cookware Set,2,2920.28,0.05,40.0,UPI
+1302,2026-01-22,South,Home,Lamp,3,898.34,0.05,41.0,Net Banking
+1164,2026-10-05,East,Electronics,Headphones,3,2534.75,0.1,18.0,UPI
+1422,2026-02-21,East,Books,Textbook,2,881.46,0.05,58.0,Cash
+1013,2026-05-02,South,Home,Cookware Set,5,2706.75,0.0,29.0,UPI
+1485,2026-06-26,South,Home,Cookware Set,2,2855.24,0.05,39.0,Cash
+1456,2026-09-09,North,Home,Cookware Set,1,2906.98,0.0,49.0,Net Banking
+1425,2026-04-29,South,Home,Lamp,1,864.0,0.0,42.0,Cash
+1082,2026-08-10,East,Clothing,Jacket,5,3334.74,0.15,32.0,Cash
+1472,2026-08-19,East,Electronics,Headphones,2,2470.06,0.0,29.0,Card
+1065,2026-09-05,South,Clothing,Jacket,2,3186.74,0.0,38.0,Card
+1482,2026-06-20,East,Books,Textbook,4,868.43,0.05,42.0,Cash
+1032,2026-02-23,South,Electronics,Speaker,3,3631.1,0.0,24.0,UPI
+1146,2026-04-29,West,Clothing,Jeans,1,1739.32,0.0,18.0,Cash
+1138,2026-05-06,West,Books,Novel,3,332.94,0.0,36.0,Net Banking
+1090,2026-08-15,North,Electronics,Speaker,3,3489.26,0.15,23.0,UPI
+1333,2026-03-27,South,Electronics,Smartwatch,1,5964.65,0.1,31.0,Card
+1267,2026-03-05,East,Home,Bedsheet,1,1208.54,0.0,37.0,Net Banking
+1090,2026-08-15,North,Electronics,Speaker,3,3489.26,0.15,23.0,UPI
+1334,2026-01-10,East,Electronics,Smartwatch,4,5924.23,0.0,18.0,
+1310,2026-10-23,West,Books,Textbook,5,926.86,0.15,21.0,Card
+1341,2026-01-16,East,Electronics,Headphones,5,2441.45,0.1,26.0,Cash
+1431,2026-05-18,East,Home,Cookware Set,4,2668.84,0.0,56.0,UPI
+1173,2026-09-16,West,Home,Bedsheet,2,1220.14,0.0,,UPI
+1258,2026-07-04,South,Books,Textbook,5,936.77,0.05,45.0,Net Banking
+1294,2026-05-15,East,Home,Cookware Set,2,2790.94,0.0,24.0,UPI
+1132,2026-09-25,North,Clothing,T-Shirt,3,577.56,0.1,21.0,UPI
+1243,2026-02-26,West,Books,Comic,1,249.94,0.05,33.0,Cash
+1040,2026-09-18,West,Home,Bedsheet,4,1189.51,0.0,46.0,Card
+1101,2026-03-28,West,Books,Novel,4,358.75,0.05,18.0,Card
+1401,2026-10-07,West,Electronics,Speaker,1,3394.29,0.1,51.0,Net Banking
+1346,2026-05-20,East,Home,Cookware Set,2,2898.73,0.0,39.0,Cash
+1227,2026-01-25,East,Books,Novel,4,363.0,0.15,25.0,Cash
+1304,2026-05-10,South,Electronics,Smartwatch,4,6140.08,0.1,30.0,UPI
+1248,2026-10-16,East,Home,Bedsheet,2,1191.01,0.05,34.0,Net Banking
+1403,2026-08-04,West,Home,Bedsheet,3,1178.7,0.15,27.0,Cash
+1109,2026-02-26,East,Books,Comic,1,246.05,0.0,41.0,Cash
+1242,2026-07-21,North,Home,Lamp,3,875.58,0.1,42.0,Cash
+1412,2026-04-26,West,Home,Bedsheet,4,1236.32,0.05,18.0,UPI
+1253,2026-02-08,East,Clothing,Jeans,3,1836.91,0.0,21.0,UPI
+1387,2026-07-26,,Clothing,T-Shirt,5,592.17,0.05,18.0,Cash
+1464,2026-10-27,North,Home,Cookware Set,3,2677.17,0.0,24.0,Cash
+1188,2026-07-21,West,Electronics,Smartwatch,2,6172.48,0.1,25.0,Net Banking
+1442,2026-06-22,South,Electronics,Speaker,3,3540.0,0.05,29.0,
+1240,2026-10-12,North,Books,Textbook,2,863.15,0.0,44.0,UPI
+1217,2026-07-24,West,Electronics,Speaker,3,3334.29,0.0,18.0,Cash
+1147,2026-03-15,North,Books,Comic,1,256.34,0.05,26.0,Net Banking
+1371,2026-06-11,South,Clothing,Jacket,2,3059.4,0.0,34.0,Card
+1274,2026-09-12,East,Electronics,Smartwatch,2,5721.07,0.0,34.0,UPI
+1382,2026-04-08,West,Clothing,T-Shirt,3,595.87,0.0,40.0,Cash
+1447,2026-04-28,West,Electronics,Speaker,5,3566.06,0.1,33.0,Cash
+1440,2026-04-29,South,Books,Novel,3,336.21,0.1,49.0,UPI
+1465,2026-04-09,East,Electronics,Smartwatch,4,5810.28,0.15,32.0,UPI
+1362,2026-02-20,North,Clothing,Jeans,5,1815.15,0.0,30.0,Card
+1060,2026-08-21,North,Clothing,Jacket,4,3146.76,0.1,36.0,Net Banking
+1493,2026-09-03,North,Clothing,Jeans,4,1837.8,0.0,33.0,Cash
+1485,2026-06-26,South,Home,Cookware Set,2,2855.24,0.05,39.0,Cash
+1466,2026-07-28,South,Books,Novel,1,333.49,0.0,35.0,Cash
+1427,2026-09-15,West,Home,Bedsheet,1,1251.14,0.0,18.0,UPI
+1326,2026-06-02,East,Clothing,Jacket,2,3350.23,0.0,43.0,Cash
+1089,2026-09-09,West,Clothing,T-Shirt,5,578.5,0.05,29.0,Card
+1118,2026-07-15,South,Electronics,Smartwatch,5,6007.64,0.15,44.0,Card
+1445,2026-03-13,East,Home,Cookware Set,4,2731.43,0.0,23.0,Cash
+1358,2026-03-21,West,Clothing,Jeans,2,1786.52,0.0,35.0,Net Banking
+1300,2026-03-13,West,Home,Bedsheet,5,1205.5,0.0,19.0,Net Banking
+1115,2026-03-14,South,Electronics,Speaker,2,3379.4,0.0,,Net Banking
+1303,2026-10-16,East,Clothing,Jacket,3,3097.88,0.0,18.0,UPI
+1030,2026-04-05,North,Clothing,Jeans,4,1829.1,0.0,38.0,Card
+1022,2026-01-07,North,Clothing,T-Shirt,5,598.94,0.0,43.0,Net Banking
+1264,2026-02-22,North,Electronics,Speaker,5,3417.65,0.15,35.0,Net Banking
+1031,2026-03-20,,Home,Cookware Set,5,2727.47,0.0,52.0,UPI
+1316,2026-09-25,North,Home,Cookware Set,1,2710.01,0.05,29.0,Net Banking
+1052,2026-07-25,North,Clothing,T-Shirt,2,626.93,0.1,53.0,Net Banking
+1492,2026-02-24,South,Clothing,Jacket,3,3248.26,0.0,46.0,UPI
+1067,2026-02-01,East,Home,Lamp,5,914.91,0.0,42.0,Cash
+1216,2026-10-11,West,Electronics,Smartwatch,2,6254.34,0.15,34.0,Cash
+1410,2026-06-05,South,Home,Cookware Set,2,2674.11,0.1,46.0,UPI
+1056,2026-08-29,South,Books,Novel,3,359.89,0.15,,Net Banking
+1460,2026-07-14,East,Clothing,Jeans,3,1756.75,0.05,45.0,UPI
+1002,2026-09-04,East,Home,Cookware Set,3,2723.63,0.0,23.0,Cash
+1058,2026-05-20,East,Clothing,Jeans,3,1847.51,0.15,51.0,Net Banking
+1221,2026-04-23,North,Books,Textbook,1,927.99,0.05,31.0,Card
+1359,2026-05-08,West,Books,Comic,2,250.06,0.0,34.0,Card
+1340,2026-09-10,East,Clothing,T-Shirt,2,598.79,0.0,41.0,Net Banking
+1212,2026-10-07,East,Books,Comic,2,245.73,0.0,50.0,Card
+1074,2026-08-01,,Books,Textbook,1,863.25,0.1,22.0,UPI
+1327,2026-03-07,East,Electronics,Smartwatch,3,6265.54,0.05,19.0,Cash
+1200,2026-09-05,South,Home,Lamp,3,889.68,0.1,38.0,Card
+1417,2026-09-08,South,Electronics,Headphones,1,2431.67,0.15,25.0,Cash
+1193,2026-01-28,South,Home,Lamp,2,921.4,0.05,34.0,Card
+1080,2026-06-21,South,Electronics,Headphones,3,2550.5,0.05,36.0,Cash
+1236,2026-05-14,North,Home,Bedsheet,5,1213.47,0.0,,UPI
+1026,2026-08-19,South,Home,Bedsheet,1,1249.92,0.15,23.0,UPI
+1461,2026-07-11,North,Electronics,Headphones,2,2429.16,0.1,,Cash
+1206,2026-03-03,West,Home,Cookware Set,5,2920.31,0.1,18.0,UPI
+1293,2026-08-21,North,Clothing,T-Shirt,4,622.93,0.0,31.0,Cash
+1350,2026-07-03,South,Electronics,Smartwatch,1,6256.6,0.05,30.0,Card
+1308,2026-10-26,North,Clothing,Jacket,5,3208.57,0.0,18.0,Cash
+1120,2026-04-04,North,Clothing,Jacket,1,3075.71,0.05,45.0,Card
+1395,2026-01-03,North,Electronics,Smartwatch,1,6157.35,0.0,43.0,Net Banking
+1050,2026-05-19,West,Books,Comic,2,253.49,0.0,29.0,Card
+1372,2026-03-01,East,Clothing,T-Shirt,2,607.62,0.0,25.0,Card
+1498,2026-08-21,East,Electronics,Smartwatch,3,5766.45,0.0,34.0,UPI
+1014,2026-05-19,East,Home,Bedsheet,1,1200.13,0.15,38.0,UPI
+1376,2026-09-18,East,Home,Bedsheet,4,1213.49,0.0,25.0,Net Banking
+1259,2026-01-05,East,Electronics,Speaker,3,3498.01,0.0,37.0,Card
+1114,2026-09-30,,Clothing,Jacket,3,3277.54,0.0,36.0,Cash
+1354,2026-08-21,North,Clothing,T-Shirt,4,620.66,0.0,43.0,Net Banking
+1003,2026-07-09,North,Home,Lamp,4,886.91,0.0,32.0,Net Banking
+1363,2026-06-19,South,Electronics,Smartwatch,4,5735.31,0.0,44.0,Cash
+1059,2026-10-07,West,Clothing,T-Shirt,1,577.03,0.1,38.0,UPI
+1446,2026-09-20,North,Clothing,T-Shirt,5,622.49,0.0,47.0,UPI
+1168,2026-01-13,West,Home,Cookware Set,3,2909.9,0.1,40.0,Cash
+1399,2026-03-31,West,Clothing,Jacket,2,3338.22,0.05,23.0,Cash
+1098,2026-07-30,East,Electronics,Headphones,4,2620.45,0.1,47.0,Cash
+1249,2026-05-18,East,Home,Cookware Set,2,2868.66,0.0,46.0,UPI
+1351,2026-03-14,South,Electronics,Speaker,2,3336.48,0.0,19.0,Card
+1041,2026-09-18,South,Home,Bedsheet,3,1169.74,0.0,21.0,UPI
+1268,2026-06-05,East,Electronics,Speaker,5,3356.16,0.0,18.0,Card
+1380,2026-04-03,East,Home,Lamp,2,858.56,0.0,25.0,
+1484,2026-01-03,West,Books,Textbook,1,915.67,0.05,18.0,UPI
+1079,2026-06-26,East,Electronics,Speaker,2,3337.62,0.0,55.0,Card
+1028,2026-06-04,West,Electronics,Smartwatch,2,6261.63,0.0,28.0,UPI
+1306,2026-08-16,North,Clothing,T-Shirt,2,624.35,0.15,34.0,Cash
+1179,2026-10-21,North,Home,Bedsheet,4,1231.76,0.0,60.0,Net Banking
+1494,2026-03-25,East,Home,Bedsheet,1,1212.75,0.0,22.0,UPI
+1385,2026-01-25,South,Clothing,Jacket,2,3355.53,0.0,54.0,UPI
+1057,2026-06-27,North,Electronics,Speaker,1,3540.66,0.0,46.0,UPI
+1145,2026-05-03,North,Clothing,Jeans,4,1878.37,0.05,43.0,Card
+1062,2026-04-25,North,Clothing,Jacket,4,3216.96,0.15,36.0,Net Banking
+1384,2026-08-18,West,Electronics,Headphones,3,2604.81,0.15,22.0,UPI
+1111,2026-10-02,North,Clothing,Jeans,3,1734.19,0.0,21.0,Card
+1084,2026-01-17,North,Home,Bedsheet,2,1180.1,0.0,44.0,UPI
+1261,2026-09-19,North,Books,Comic,5,245.36,0.0,32.0,Card
+1443,2026-06-24,North,Clothing,T-Shirt,3,598.33,0.1,52.0,Net Banking
+1213,2026-07-17,South,Clothing,T-Shirt,3,589.24,0.15,33.0,Card
+1455,2026-03-03,West,Home,Lamp,1,899.73,0.15,48.0,UPI
+1129,2026-10-23,North,Home,Bedsheet,2,1237.58,0.0,41.0,Card
+1423,2026-10-13,South,Home,Bedsheet,2,1223.13,0.15,36.0,UPI
+1096,2026-10-03,East,Clothing,Jacket,4,3096.8,0.0,42.0,Card
+1202,2026-07-13,West,Books,Comic,1,259.76,0.0,45.0,Card
+1246,2026-05-23,East,Books,Novel,1,361.28,0.1,29.0,Cash
+1475,2026-06-17,South,Clothing,Jeans,5,1716.52,0.1,18.0,Cash
+1141,2026-08-09,East,Clothing,Jacket,5,3161.3,0.0,47.0,Cash
+1459,2026-02-18,South,Books,Novel,4,363.56,0.0,33.0,UPI
+1352,2026-04-26,West,Clothing,Jeans,2,1769.03,0.0,38.0,UPI
+1220,2026-10-17,North,Clothing,T-Shirt,5,621.34,0.15,23.0,UPI
+1165,2026-01-19,South,Electronics,Speaker,3,3370.16,0.0,32.0,UPI
+1222,2026-07-02,West,Books,Comic,3,246.75,0.0,21.0,
+1319,2026-08-02,South,Clothing,Jeans,1,1789.05,0.05,22.0,Cash
+1244,2026-10-26,North,Clothing,T-Shirt,3,598.68,0.15,37.0,Card
+1237,2026-10-20,West,Electronics,Headphones,2,2503.94,0.05,18.0,Net Banking
+1081,2026-08-25,South,Clothing,T-Shirt,3,595.89,0.05,62.0,Cash
+1497,2026-01-30,East,Books,Comic,5,252.35,0.0,18.0,UPI
+1318,2026-04-01,West,Clothing,Jeans,3,1774.74,0.1,41.0,UPI
+1478,2026-03-08,South,Clothing,T-Shirt,1,626.48,0.0,34.0,UPI
+1430,2026-01-27,South,Books,Textbook,3,939.83,0.05,38.0,Net Banking
+1270,2026-07-27,North,Home,Bedsheet,5,1189.42,0.05,36.0,Card
+1322,2026-10-05,South,Home,Cookware Set,2,2920.28,0.05,40.0,UPI
+1295,2026-02-16,West,Electronics,Smartwatch,2,6205.24,0.1,,Card
+1053,2026-06-10,West,Clothing,Jeans,5,1827.47,0.0,30.0,Net Banking
+1296,2026-01-24,West,Books,Comic,4,245.19,0.1,25.0,UPI
+1280,2026-08-09,South,Electronics,Speaker,4,3508.08,0.1,38.0,UPI
+1139,2026-01-29,West,Clothing,Jacket,5,3166.4,0.0,37.0,Cash
+1271,2026-08-07,North,Electronics,Speaker,4,3359.23,0.0,18.0,Card
+1370,2026-10-12,West,Electronics,Speaker,4,3631.69,0.0,28.0,UPI
+1066,2026-08-23,East,Books,Comic,1,262.43,0.0,28.0,Net Banking
+1434,2026-09-21,West,Books,Textbook,5,875.55,0.05,23.0,Net Banking
+1263,2026-01-18,East,Electronics,Speaker,5,3466.01,0.0,27.0,Net Banking
+1292,2026-01-22,North,Electronics,Smartwatch,5,5744.43,0.0,23.0,UPI
+1365,2026-02-25,South,Books,Novel,2,353.07,0.0,25.0,Cash
+1099,2026-09-28,East,Home,Cookware Set,4,2929.7,0.05,22.0,Net Banking
+1281,2026-08-05,West,Books,Novel,5,366.95,0.0,32.0,Card
+1148,2026-02-25,South,Electronics,Speaker,3,3488.95,0.0,37.0,Card
+1015,2026-04-25,North,Clothing,T-Shirt,2,607.82,0.05,18.0,Card
+1163,2026-04-13,North,Electronics,Speaker,4,3542.95,0.0,38.0,Net Banking
+1340,2026-09-10,East,Clothing,T-Shirt,2,598.79,0.0,41.0,Net Banking
+1046,2026-02-24,West,Electronics,Smartwatch,2,5849.63,0.05,38.0,Cash
+1086,2026-02-05,East,Home,Bedsheet,2,1255.01,0.0,38.0,Net Banking
+1037,2026-06-16,North,Electronics,Smartwatch,4,5763.54,0.1,36.0,UPI
+1418,2026-06-18,West,Electronics,Smartwatch,2,6075.7,0.0,29.0,Net Banking
+1367,2026-01-27,West,Books,Comic,1,260.74,0.05,27.0,Net Banking
+1388,2026-01-21,East,Electronics,Speaker,4,3425.82,0.0,44.0,Cash
+1204,2026-01-30,South,Electronics,Speaker,2,3472.96,0.05,32.0,UPI
+1172,2026-07-16,East,Home,Lamp,4,856.78,0.15,49.0,Card
+1073,2026-10-22,East,Home,Cookware Set,4,2675.26,0.0,39.0,Cash
+1278,2026-09-04,North,Home,Lamp,4,880.91,0.0,18.0,UPI
+1104,2026-01-12,North,Home,Lamp,2,859.38,0.0,36.0,UPI
+1495,2026-06-14,West,Electronics,Speaker,1,3538.64,0.05,26.0,Net Banking
+1298,2026-07-07,West,Home,Lamp,1,917.42,0.05,27.0,Cash
+1016,2026-10-16,South,Electronics,Smartwatch,5,6119.82,0.0,48.0,Card
+1314,2026-03-24,East,Home,Bedsheet,1,1146.59,0.15,32.0,Cash
+1091,2026-01-14,East,Books,Comic,2,244.8,0.0,46.0,Card
+1088,2026-06-07,South,Electronics,Speaker,1,3383.07,0.0,51.0,Net Banking
+1420,2026-01-05,North,Home,Cookware Set,5,2823.97,0.0,33.0,Net Banking
+1140,2026-02-23,East,Books,Novel,1,362.56,0.15,21.0,Net Banking
+1194,2026-08-14,East,Clothing,Jeans,3,1776.22,0.0,,UPI
+1205,2026-04-07,South,Books,Novel,2,334.43,0.05,37.0,Card
+1102,2026-08-22,West,Electronics,Smartwatch,3,6291.32,0.15,18.0,Card
+1344,2026-02-25,East,Books,Novel,2,333.59,0.0,42.0,Card
+1174,2026-03-27,South,Electronics,Headphones,4,2602.58,0.1,40.0,UPI
+1170,2026-06-18,North,Clothing,Jacket,4,3202.86,0.1,43.0,Net Banking
+1368,2026-05-16,East,Clothing,Jacket,3,3100.81,0.05,,Net Banking
+1157,2026-03-15,South,Electronics,Headphones,1,2610.0,0.0,27.0,Net Banking
+1070,2026-03-13,South,Home,Bedsheet,5,1146.87,0.1,30.0,Net Banking
+1133,2026-06-02,North,Electronics,Speaker,5,3326.4,0.15,53.0,UPI
+1284,2026-07-01,South,Clothing,T-Shirt,4,619.78,0.15,18.0,UPI
+1479,2026-10-22,East,Electronics,Speaker,4,3538.6,0.05,23.0,Net Banking
+1375,2026-01-28,South,Clothing,T-Shirt,3,577.59,0.1,32.0,Net Banking
+1228,2026-01-11,North,Clothing,Jeans,3,1888.84,0.0,37.0,Net Banking
+1239,2026-06-11,East,Books,Novel,4,339.57,0.05,58.0,Net Banking
+1336,2026-06-28,North,Clothing,T-Shirt,1,600.91,0.1,25.0,Card
+1273,2026-03-24,North,Electronics,Smartwatch,2,5781.02,0.0,39.0,Net Banking
+1360,2026-02-15,West,Clothing,T-Shirt,2,603.95,0.05,45.0,Card
+1238,2026-01-15,South,Electronics,Smartwatch,1,5738.0,0.0,41.0,UPI
+1018,2026-03-02,East,Clothing,Jacket,2,3225.35,0.05,18.0,UPI
+1177,2026-05-14,North,Home,Cookware Set,5,2899.12,0.0,44.0,Card
+1390,2026-06-14,West,Electronics,Smartwatch,3,6177.32,0.15,34.0,Card
+1020,2026-05-05,West,Electronics,Speaker,1,3497.9,0.0,37.0,Card
+1055,2026-01-29,East,Home,Cookware Set,4,2683.66,0.05,33.0,Net Banking
+1324,2026-01-24,North,Clothing,Jacket,5,3236.43,0.15,27.0,Cash
+1450,2026-05-31,East,Electronics,Headphones,5,2378.04,0.0,32.0,Cash
+1364,2026-06-03,South,Electronics,Smartwatch,2,6097.75,0.0,22.0,UPI
+1034,2026-07-23,West,Electronics,Headphones,1,2501.58,0.15,20.0,Cash
+1181,2026-03-07,East,Clothing,T-Shirt,5,621.63,0.05,33.0,UPI
+1184,2026-10-22,,Books,Novel,1,337.33,0.05,34.0,Net Banking
+1150,2026-08-18,South,Electronics,Headphones,5,2600.41,0.0,21.0,Net Banking
+1207,2026-07-05,South,Electronics,Smartwatch,1,6211.43,0.15,48.0,Net Banking
+1245,2026-03-10,East,Clothing,T-Shirt,4,573.05,0.05,50.0,Net Banking
+1094,2026-05-25,East,Home,Lamp,4,931.68,0.0,30.0,Cash
+1381,2026-08-07,West,Electronics,Speaker,5,3589.78,0.0,18.0,Card
+1421,2026-06-02,South,Electronics,Speaker,3,3477.95,0.05,33.0,Card
+1097,2026-10-06,East,Electronics,Smartwatch,3,5884.52,0.0,33.0,Cash
+1235,2026-04-26,South,Clothing,Jacket,2,3165.28,0.0,22.0,UPI
+1454,2026-01-28,South,Clothing,Jacket,5,3095.99,0.0,44.0,Net Banking
+1473,2026-08-16,South,Clothing,Jeans,5,1828.96,0.15,41.0,Card
+1154,2026-08-20,North,Home,Lamp,2,939.74,0.0,31.0,UPI
+1122,2026-09-16,North,Electronics,Smartwatch,1,6004.9,0.0,18.0,Card
+1113,2026-08-14,East,Books,Comic,3,244.61,0.0,18.0,Net Banking
+1283,2026-04-25,East,Home,Cookware Set,5,2907.39,0.1,31.0,Card
+1435,2026-06-18,South,Clothing,Jacket,2,3132.34,0.1,41.0,UPI
+1171,2026-04-13,East,Home,Cookware Set,3,2783.21,0.0,37.0,UPI
+1108,2026-09-14,West,Clothing,Jacket,2,3228.9,0.0,30.0,Card
+1078,2026-05-09,West,Clothing,Jeans,4,1824.23,0.15,24.0,Card
+1061,2026-04-20,East,Electronics,Speaker,2,3380.16,0.15,44.0,UPI
+1471,2026-05-12,West,Clothing,Jeans,2,1747.7,0.0,45.0,Cash
+1125,2026-08-02,,Clothing,Jacket,1,3055.16,0.0,37.0,UPI
+1328,2026-04-24,North,Books,Textbook,5,876.75,0.05,19.0,Cash
+1313,2026-08-16,West,Electronics,Headphones,3,2380.29,0.15,26.0,Card
+1491,2026-06-27,,Electronics,Speaker,2,3515.03,0.0,27.0,Card
+1426,2026-06-17,East,Electronics,Smartwatch,4,6196.06,0.0,18.0,Cash
+1277,2026-10-09,North,Home,Lamp,4,894.71,0.0,31.0,Net Banking
+1413,2026-05-01,North,Books,Novel,1,364.82,0.15,40.0,Net Banking
+1024,2026-06-06,West,Clothing,Jeans,3,1713.89,0.0,35.0,Net Banking
+1477,2026-01-01,North,Clothing,Jeans,1,1726.84,0.0,42.0,Cash
+1353,2026-08-15,East,Electronics,Headphones,5,2607.13,0.0,28.0,Cash
+1310,2026-10-23,West,Books,Textbook,5,926.86,0.15,21.0,Card
+1126,2026-02-26,West,Electronics,Speaker,1,3363.72,0.1,45.0,Cash
+1429,2026-05-01,West,Clothing,T-Shirt,4,623.59,0.1,45.0,Cash
+1424,2026-01-10,West,Clothing,Jacket,4,3257.06,0.0,37.0,Cash
+1178,2026-07-09,West,Clothing,Jeans,2,1753.96,0.0,39.0,Net Banking
+1439,2026-10-25,North,Home,Lamp,3,928.25,0.0,24.0,Cash
+1377,2026-01-11,North,Books,Novel,3,340.07,0.0,37.0,Net Banking
+1223,2026-09-09,North,Home,Lamp,2,882.34,0.1,31.0,
+1355,2026-08-30,West,Home,Bedsheet,2,1251.51,0.0,50.0,UPI
+1093,2026-08-17,East,Home,Bedsheet,1,1183.99,0.1,41.0,Cash
+1069,2026-07-16,West,Books,Novel,1,332.69,0.0,18.0,UPI
+1036,2026-05-27,East,Clothing,T-Shirt,4,627.34,0.05,26.0,Card
+1160,2026-03-17,West,Electronics,Headphones,1,2404.74,0.0,,Net Banking
+1011,2026-05-12,West,Electronics,Smartwatch,2,5945.12,0.15,21.0,Net Banking
+1144,2026-08-04,West,Clothing,Jacket,5,3166.28,0.05,68.0,Card
+1357,2026-09-15,South,Home,Cookware Set,1,2737.26,0.15,39.0,Card
+1127,2026-06-27,East,Clothing,T-Shirt,5,570.28,0.0,53.0,Net Banking
+1289,2026-06-09,North,Home,Bedsheet,3,1193.94,0.0,45.0,Cash
+1009,2026-06-20,North,Clothing,Jeans,1,1730.62,0.0,44.0,Cash
+1378,2026-02-26,West,Clothing,T-Shirt,2,612.23,0.0,22.0,UPI
+1176,2026-04-30,South,Books,Textbook,4,857.09,0.05,33.0,Card
+1231,2026-04-30,West,Clothing,Jacket,3,3060.2,0.0,43.0,Net Banking
+1210,2026-06-25,South,Clothing,Jacket,1,3142.75,0.0,51.0,UPI
+1128,2026-08-20,West,Electronics,Speaker,5,3413.99,0.0,22.0,Net Banking
+1143,2026-01-30,North,Home,Cookware Set,2,2868.21,0.0,54.0,UPI
+1241,2026-04-24,South,Books,Comic,4,251.01,0.0,49.0,UPI
+1007,2026-08-30,West,Home,Cookware Set,2,2740.73,0.0,36.0,Cash
+1254,2026-08-13,North,Home,Cookware Set,5,2785.51,0.0,27.0,Net Banking
+1453,2026-03-23,East,Clothing,Jeans,3,1742.67,0.0,51.0,Cash
+1338,2026-08-25,East,Electronics,Speaker,4,3650.21,0.15,29.0,Net Banking
+1008,2026-01-03,West,Electronics,Speaker,4,3557.7,0.0,30.0,Cash
+1156,2026-08-02,North,Electronics,Speaker,5,3631.1,0.1,39.0,Card
+1027,2026-04-22,South,Clothing,Jeans,5,1855.49,0.15,44.0,Card
+1266,2026-05-10,East,Clothing,Jacket,2,3288.25,0.05,33.0,Net Banking
+1064,2026-07-11,,Books,Comic,1,252.21,0.0,35.0,Cash
+1255,2026-02-22,North,Clothing,T-Shirt,3,593.52,0.1,33.0,UPI
+1321,2026-01-13,West,Electronics,Headphones,2,2488.72,0.0,29.0,Card
+1153,2026-06-25,East,Books,Textbook,4,881.64,0.15,38.0,Card
+1048,2026-01-30,West,Books,Comic,5,260.07,0.0,28.0,Net Banking
+1208,2026-10-27,South,Clothing,T-Shirt,1,594.08,0.0,27.0,Card
+1287,2026-08-12,East,Books,Novel,5,340.06,0.05,28.0,Cash
+1001,2026-08-24,East,Home,Bedsheet,1,1194.05,0.05,42.0,Card
+1269,2026-02-26,North,Clothing,T-Shirt,1,594.6,0.0,18.0,Card
+1265,2026-09-02,South,Home,Bedsheet,2,1173.14,0.0,35.0,Net Banking
+1330,2026-01-22,South,Clothing,T-Shirt,3,615.23,0.0,18.0,Card
+1337,2026-08-23,West,Electronics,Headphones,5,2380.57,0.15,34.0,Cash
+1095,2026-09-13,South,Clothing,T-Shirt,2,599.93,0.15,24.0,Cash
+1468,2026-10-22,West,Books,Comic,4,249.13,0.0,26.0,UPI
+1496,2026-06-14,West,Clothing,Jacket,3,3191.32,0.1,25.0,Cash
+1369,2026-01-21,East,Home,Cookware Set,1,2843.04,0.0,36.0,Card
+1116,2026-08-26,East,Clothing,T-Shirt,4,596.3,0.15,47.0,
+1045,2026-04-29,West,Home,Bedsheet,2,1200.54,0.1,26.0,Net Banking
+1161,2026-05-20,West,Home,Lamp,3,902.87,0.05,18.0,UPI
+1389,2026-09-08,North,Books,Comic,1,238.09,0.15,24.0,UPI
+1117,2026-09-02,East,Home,Lamp,5,925.88,0.0,42.0,UPI
+1288,2026-03-11,South,Electronics,Speaker,1,3660.48,0.0,35.0,Cash
+1077,2026-05-02,West,Clothing,Jacket,3,3078.15,0.15,35.0,UPI
+1396,2026-01-22,West,Home,Lamp,3,923.05,0.15,31.0,Card
+1063,2026-04-23,East,Clothing,T-Shirt,5,613.07,0.15,40.0,Net Banking
+1397,2026-10-25,West,Clothing,T-Shirt,2,581.37,0.05,42.0,UPI
+1405,2026-06-11,South,Electronics,Speaker,3,3525.05,0.0,31.0,UPI
+1230,2026-01-18,North,Electronics,Headphones,5,2413.94,0.1,28.0,Cash
+1297,2026-03-30,West,Books,Novel,3,342.64,0.0,52.0,Cash
+1186,2026-05-31,South,Clothing,T-Shirt,4,609.16,0.0,47.0,Net Banking
+1342,2026-10-07,East,Clothing,T-Shirt,3,628.27,0.15,33.0,Card
+1199,2026-01-15,West,Electronics,Smartwatch,4,5991.72,0.05,23.0,Card
+1347,2026-04-13,East,Books,Textbook,1,899.51,0.05,65.0,UPI
+1121,2026-03-04,West,Home,Cookware Set,2,2770.36,0.0,,Card
+1474,2026-06-07,North,Clothing,Jacket,2,3073.36,0.0,44.0,Card
+1438,2026-03-29,West,Books,Novel,5,358.03,0.15,40.0,Net Banking
+1307,2026-10-27,West,Home,Cookware Set,2,2740.33,0.0,35.0,Card
+1467,2026-05-11,North,Clothing,T-Shirt,5,587.27,0.1,43.0,Cash
+1158,2026-05-28,South,Clothing,T-Shirt,3,602.19,0.1,34.0,Card
+1085,2026-01-05,South,Home,Bedsheet,5,1242.79,0.0,43.0,Card
+1225,2026-01-13,East,Home,Lamp,3,902.0,0.15,32.0,UPI
+1262,2026-10-09,South,Home,Cookware Set,2,2815.96,0.05,38.0,Card
+1331,2026-06-06,South,Home,Bedsheet,5,1193.57,0.1,30.0,Net Banking
+1406,2026-06-25,South,Clothing,Jacket,4,3270.47,0.0,26.0,Cash
+1076,2026-06-23,East,Clothing,Jeans,4,1826.86,0.0,38.0,Net Banking
+1394,2026-06-30,East,Books,Novel,1,356.79,0.15,18.0,Net Banking
+1457,2026-07-22,East,Home,Cookware Set,3,2842.78,0.1,43.0,Net Banking
+1087,2026-07-26,North,Clothing,Jacket,4,3164.11,0.15,33.0,Cash
+1168,2026-01-13,West,Home,Cookware Set,3,2909.9,0.1,40.0,Cash
+1182,2026-08-28,North,Clothing,Jeans,5,1734.9,0.1,21.0,Net Banking
+1105,2026-08-21,North,Home,Cookware Set,5,2867.04,0.0,36.0,Net Banking
+1404,2026-07-19,South,Clothing,T-Shirt,3,615.37,0.0,41.0,Net Banking
+1049,2026-07-12,East,Home,Cookware Set,4,2697.67,0.1,35.0,Cash
+1386,2026-05-30,West,Clothing,Jeans,3,1777.81,0.0,37.0,Net Banking
+1005,2026-10-18,South,Home,Cookware Set,2,2763.73,0.0,46.0,Card
+1017,2026-08-04,West,Home,Lamp,3,879.5,0.0,30.0,UPI
+1234,2026-06-13,West,Clothing,Jeans,5,1884.92,0.0,18.0,Cash
+1408,2026-07-23,South,Books,Textbook,1,908.3,0.0,18.0,UPI
+1416,2026-07-12,West,Clothing,Jacket,3,3174.32,0.15,18.0,UPI
+1106,2026-07-06,North,Electronics,Headphones,5,2376.13,0.15,27.0,Cash
+1134,2026-02-08,East,Clothing,Jeans,5,1868.47,0.0,22.0,Cash
+1409,2026-06-28,West,Home,Cookware Set,3,2754.81,0.1,18.0,Card
+1226,2026-04-14,North,Electronics,Smartwatch,1,6268.39,0.0,38.0,Card
+1214,2026-02-19,East,Electronics,Headphones,4,2472.27,0.15,,UPI
+1190,2026-09-21,West,Electronics,Smartwatch,1,5792.12,0.0,23.0,Cash
+1469,2026-03-08,West,Home,Lamp,3,896.65,0.0,40.0,Net Banking
+1320,2026-09-01,North,Home,Cookware Set,4,2688.78,0.15,21.0,Card
+1282,2026-10-23,North,Clothing,T-Shirt,1,594.74,0.05,37.0,Net Banking
+1029,2026-10-25,North,Clothing,Jacket,5,3279.55,0.15,32.0,Net Banking
+1169,2026-07-17,North,Clothing,Jacket,2,3343.21,0.1,48.0,Card
+1180,2026-03-14,East,Clothing,Jacket,4,3132.58,0.0,38.0,Card
+1100,2026-08-08,West,Electronics,Smartwatch,3,6031.86,0.15,51.0,Cash
+1197,2026-10-20,West,Books,Comic,5,242.31,0.05,30.0,UPI
+1209,2026-08-30,West,Clothing,Jacket,1,3353.16,0.0,34.0,Card
+1135,2026-01-16,South,Electronics,Speaker,3,3428.16,0.0,18.0,Cash
+1479,2026-10-22,East,Electronics,Speaker,4,3538.6,0.05,23.0,Net Banking
+1436,2026-09-24,East,Clothing,Jacket,4,3206.71,0.0,23.0,Card
+1198,2026-08-09,North,Electronics,Headphones,3,2512.73,0.0,53.0,Net Banking
+1373,2026-08-20,North,Clothing,Jacket,2,3228.01,0.0,,Net Banking
+1166,2026-10-04,East,Clothing,T-Shirt,2,613.57,0.1,29.0,Card
+1441,2026-04-29,East,Clothing,Jacket,2,3197.32,0.05,31.0,Net Banking
+1136,2026-06-28,North,Electronics,Headphones,2,2593.47,0.15,24.0,Card
+1285,2026-06-19,East,Home,Lamp,3,859.97,0.0,,Card
+1335,2026-03-16,South,Electronics,Smartwatch,3,5936.44,0.1,34.0,Net Banking
+1131,2026-01-06,East,Clothing,Jeans,1,1840.53,0.15,53.0,Cash
+1039,2026-02-02,South,Electronics,Smartwatch,5,6178.09,0.0,32.0,UPI
+1215,2026-03-19,East,Home,Cookware Set,5,2919.7,0.0,40.0,Cash
+1043,2026-02-13,West,Clothing,Jacket,5,3092.97,0.0,32.0,Card
+1054,2026-03-28,North,Home,Lamp,4,873.22,0.05,31.0,Cash
+1483,2026-02-16,West,Clothing,T-Shirt,2,621.26,0.15,24.0,UPI
+1299,2026-05-15,North,Electronics,Speaker,3,3355.35,0.15,23.0,UPI
+1463,2026-09-11,North,Books,Comic,3,253.17,0.15,23.0,Card
+1304,2026-05-10,South,Electronics,Smartwatch,4,6140.08,0.1,30.0,UPI
+1035,2026-08-30,North,Electronics,Speaker,4,3583.64,0.1,28.0,UPI
+1315,2026-02-16,East,Home,Lamp,4,895.02,0.1,49.0,Card
+1309,2026-03-03,South,Books,Novel,3,361.65,0.0,43.0,Card
+1276,2026-09-18,East,Electronics,Speaker,2,3541.62,0.05,33.0,Net Banking
+1124,2026-07-24,South,Clothing,Jacket,2,3145.84,0.0,21.0,Net Banking
+1142,2026-08-23,West,Home,Cookware Set,3,2689.29,0.1,25.0,Net Banking
+1110,2026-03-30,West,Books,Textbook,3,867.31,0.0,18.0,Cash
+1323,2026-01-04,West,Books,Textbook,4,942.32,0.0,25.0,Net Banking
+1332,2026-09-23,East,Electronics,Smartwatch,3,5784.98,0.0,25.0,UPI
+1393,2026-04-09,East,Clothing,Jeans,2,1755.15,0.15,39.0,Card
+1480,2026-03-03,West,Books,Textbook,4,892.81,0.0,40.0,Card
+1107,2026-05-01,East,Electronics,Speaker,5,3560.06,0.0,18.0,UPI
+1451,2026-04-17,East,Home,Lamp,3,870.11,0.0,29.0,Cash
+1012,2026-03-26,West,Electronics,Speaker,2,3556.67,0.0,35.0,Cash
+1272,2026-05-20,North,Electronics,Smartwatch,2,6177.64,0.0,29.0,Net Banking
+1047,2026-04-23,West,Electronics,Headphones,3,2400.42,0.0,36.0,Net Banking
+1203,2026-01-18,South,Books,Textbook,2,907.72,0.0,23.0,UPI
+1433,2026-03-23,North,Home,Lamp,3,872.77,0.0,50.0,Net Banking
+1119,2026-01-31,South,Books,Comic,1,243.65,0.05,23.0,UPI
+1021,2026-06-26,West,Electronics,Headphones,1,2606.28,0.15,18.0,Cash
+1402,2026-08-06,North,Books,Comic,1,254.8,0.15,33.0,Cash
+1083,2026-04-05,East,Home,Lamp,5,899.47,0.0,41.0,UPI
+1130,2026-03-06,East,Home,Lamp,3,883.59,0.1,37.0,UPI
+1452,2026-04-29,East,Electronics,Headphones,5,2375.68,0.1,41.0,Card
+1489,2026-08-22,North,Electronics,Headphones,1,2603.35,0.1,25.0,Cash
+1329,2026-07-27,East,Electronics,Headphones,5,2412.65,0.0,25.0,UPI
+1229,2026-04-01,East,Home,Cookware Set,5,2672.63,0.0,19.0,Net Banking
+1249,2026-05-18,East,Home,Cookware Set,2,2868.66,0.0,46.0,UPI
+1286,2026-04-29,South,Electronics,Speaker,5,3342.81,0.0,32.0,Cash
+1123,2026-08-23,South,Clothing,Jeans,5,1756.86,0.0,18.0,Card
+1033,2026-10-19,South,Home,Lamp,3,867.95,0.15,49.0,UPI
+1481,2026-10-27,South,Electronics,Smartwatch,2,6089.26,0.0,40.0,Net Banking
+1004,2026-02-28,South,Home,Bedsheet,3,1145.26,0.05,38.0,UPI
+1411,2026-10-11,South,Clothing,Jacket,3,3115.15,0.15,45.0,UPI
+1019,2026-08-04,East,Home,Cookware Set,3,2835.65,0.0,31.0,Cash
+1219,2026-06-19,North,Clothing,Jacket,2,3091.39,0.0,18.0,Net Banking
+1379,2026-08-18,North,Books,Comic,1,244.81,0.0,25.0,Net Banking
+1031,2026-03-20,,Home,Cookware Set,5,2727.47,0.0,52.0,UPI
+1419,2026-09-28,West,Books,Novel,5,354.6,0.05,36.0,Cash
+1356,2026-01-28,South,Home,Lamp,4,858.08,0.1,28.0,Net Banking
+1149,2026-10-15,North,Clothing,T-Shirt,4,599.73,0.15,33.0,UPI
+1224,2026-05-20,South,Clothing,Jeans,4,1739.41,0.05,33.0,Cash
+1247,2026-07-11,North,Clothing,Jeans,5,1823.59,0.0,37.0,Card
+1449,2026-10-19,North,Home,Bedsheet,2,1169.96,0.1,48.0,UPI
+1151,2026-01-22,South,Books,Textbook,1,882.4,0.0,18.0,Cash
+1488,2026-05-06,North,Electronics,Speaker,2,3604.42,0.0,33.0,Net Banking
+1317,2026-03-02,West,Electronics,Speaker,4,3578.69,0.0,22.0,Cash
+1291,2026-10-04,West,Books,Comic,2,241.73,0.0,45.0,UPI
+1233,2026-10-20,East,Home,Lamp,5,939.9,0.05,38.0,UPI
+1010,2026-08-18,East,Clothing,T-Shirt,4,603.21,0.0,42.0,Cash
+1279,2026-06-01,East,Clothing,Jacket,3,3166.43,0.1,28.0,Net Banking
+1071,2026-07-29,West,Home,Bedsheet,5,1144.82,0.0,48.0,UPI
+1252,2026-02-22,West,Home,Bedsheet,2,1197.41,0.1,35.0,UPI
+1092,2026-01-26,South,Clothing,T-Shirt,2,620.62,0.15,32.0,Cash
+1487,2026-01-04,North,Electronics,Smartwatch,5,5833.49,0.0,24.0,Net Banking
+1349,2026-10-25,South,Home,Bedsheet,2,1159.54,0.0,30.0,Cash
+1415,2026-09-06,East,Books,Textbook,2,859.8,0.05,24.0,Net Banking
+1374,2026-08-27,South,Books,Comic,1,248.23,0.15,44.0,Cash
+1400,2026-06-11,West,Clothing,T-Shirt,3,576.44,0.0,29.0,UPI
+1192,2026-02-20,North,Home,Cookware Set,1,2901.02,0.0,31.0,Net Banking
+1257,2026-08-17,North,Electronics,Smartwatch,5,5998.76,0.05,18.0,Cash
+1490,2026-01-04,South,Electronics,Smartwatch,2,6248.41,0.0,26.0,Net Banking
+1339,2026-06-14,East,Clothing,Jacket,1,3147.61,0.0,32.0,Net Banking
+1499,2026-09-24,South,Electronics,Headphones,4,2549.55,0.05,41.0,Card
+1195,2026-02-05,West,Home,Bedsheet,1,1161.15,0.0,45.0,UPI
+1343,2026-05-15,North,Books,Novel,2,362.44,0.15,28.0,Card
+1137,2026-04-29,West,Clothing,Jeans,4,1840.64,0.1,32.0,Cash
+1260,2026-09-08,West,Clothing,Jeans,1,1750.53,0.0,18.0,Net Banking
+1038,2026-06-28,North,Books,Novel,5,360.65,0.0,27.0,Card
+1462,2026-10-08,South,Clothing,Jeans,2,1860.46,0.1,21.0,UPI
+1201,2026-06-19,East,Clothing,Jeans,4,1721.89,0.0,18.0,UPI
+1476,2026-03-16,West,Electronics,Smartwatch,1,5830.08,0.0,29.0,Card
+1290,2026-09-01,North,Books,Comic,2,251.97,0.0,22.0,UPI
+1448,2026-08-01,North,Home,Cookware Set,3,2909.9,0.0,28.0,UPI
+1189,2026-04-07,,Clothing,Jeans,4,1854.25,0.0,31.0,Card
+1251,2026-03-01,South,Electronics,Headphones,2,2507.35,0.0,37.0,Net Banking
+1112,2026-01-06,South,Electronics,Smartwatch,3,6080.72,0.15,30.0,Card
+1437,2026-09-04,South,Electronics,Headphones,1,2554.16,0.1,37.0,Net Banking
+1183,2026-10-27,South,Clothing,Jeans,1,1737.71,0.0,64.0,Card
+1152,2026-07-05,South,Home,Bedsheet,3,1159.84,0.0,30.0,Card
+1312,2026-04-10,East,Clothing,Jeans,1,1743.97,0.05,19.0,Net Banking
+1325,2026-02-16,East,Clothing,Jeans,4,1723.5,0.1,18.0,Cash
+1191,2026-01-01,North,Electronics,Headphones,3,2568.66,0.0,31.0,UPI
+1044,2026-01-07,East,Electronics,Smartwatch,1,5804.78,0.1,,UPI
+1444,2026-08-29,East,Clothing,Jeans,5,1737.63,0.0,32.0,Cash
+1275,2026-03-05,South,Home,Lamp,5,931.59,0.0,51.0,Net Banking
+1006,2026-05-23,South,Electronics,Speaker,2,3559.43,0.15,39.0,Card
+1250,2026-08-13,North,Home,Lamp,5,879.53,0.05,18.0,UPI
+1311,2026-06-18,North,Clothing,T-Shirt,3,608.2,0.0,50.0,Card
+1075,2026-08-24,South,Clothing,Jeans,4,1813.03,0.0,48.0,UPI
+1000,2026-05-12,South,Home,Cookware Set,5,2855.26,0.0,19.0,UPI
+1428,2026-02-28,South,Electronics,Speaker,1,3480.84,0.15,28.0,Card
+1391,2026-02-15,East,Books,Textbook,5,859.66,0.0,34.0,Card
+1383,2026-01-24,South,Books,Comic,2,242.02,0.1,42.0,Card
+1432,2026-07-19,North,Electronics,Speaker,2,3635.33,0.15,18.0,Net Banking
+1068,2026-01-09,North,Books,Comic,2,241.08,0.15,43.0,Net Banking
+1486,2026-09-22,West,Clothing,Jacket,4,3190.97,0.1,22.0,Card
+1167,2026-05-22,East,Clothing,T-Shirt,5,590.56,0.05,42.0,UPI
+1392,2026-07-25,West,Home,Bedsheet,2,1190.23,0.0,31.0,Card
+1218,2026-05-20,South,Clothing,T-Shirt,1,617.2,0.15,33.0,Card
+1042,2026-02-01,West,Home,Bedsheet,1,1211.33,0.0,53.0,UPI
+1366,2026-02-01,East,Electronics,Speaker,5,3484.37,0.0,40.0,Net Banking
+1345,2026-02-24,East,Home,Cookware Set,4,2733.77,0.05,41.0,Card
+1072,2026-09-13,South,Home,Lamp,1,921.12,0.0,30.0,UPI
+1023,2026-05-28,South,Clothing,Jacket,5,3222.95,0.05,36.0,Card
+1398,2026-08-26,East,Clothing,T-Shirt,4,623.55,0.0,18.0,Net Banking
+1185,2026-07-19,,Books,Novel,1,361.64,0.05,30.0,UPI
+1348,2026-02-09,South,Home,Cookware Set,5,2922.33,0.0,27.0,Cash
+1103,2026-08-27,East,Clothing,T-Shirt,1,603.33,0.05,39.0,Net Banking
+1407,2026-06-11,North,Home,Bedsheet,4,1152.14,0.0,30.0,Card
+1211,2026-06-26,East,Books,Novel,2,346.8,0.0,34.0,Card
+1067,2026-02-01,East,Home,Lamp,5,914.91,0.0,42.0,Cash
+1047,2026-04-23,West,Electronics,Headphones,3,2400.42,0.0,36.0,Net Banking
+1025,2026-06-16,South,Electronics,Headphones,1,2543.06,0.0,37.0,Card
+1196,2026-10-25,West,Clothing,Jacket,1,3249.13,0.0,,Card
+1175,2026-10-13,East,Home,Bedsheet,4,1170.61,0.0,45.0,Cash
